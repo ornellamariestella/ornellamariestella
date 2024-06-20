@@ -1,9 +1,10 @@
 ## Hi there, I'm Ornella ✨
 
-- I'm a Customer Insight Specialist with over 2 years of experience in the tech industry.
-- Currently, I'm studying **Data Analytics @Boolean**! 👨‍💻 
+- I'm a Data Specialist with over 2 years of experience in the Tech Capital of Europe, Stockholm
+- I specialize in Customer Insights, E-Commerce and Product data
+- I have recently finished a bootcamp in **Data Analytics @Boolean**! 👨‍💻
+- I have worked in FinTech, E-Commerce and Tech start-ups
 - I hold a **MAs in Social Research**, which is why I'm all about about investigating trends 🔎
-- But mostly, I'm just an Italian surviving the Scandinavian weather :snowman:
 
 
 ### I'm passionate about 💗
@@ -17,6 +18,7 @@ I believe **a user-centered approach is key** :key: to drive product improvement
 - SQL
 - Python
 - Tableau
+  
 ***...and I'm always learning something new!***
 
 
@@ -28,5 +30,5 @@ I believe **a user-centered approach is key** :key: to drive product improvement
 
 
 ### How to reach me 📫
-- [My Linkedin profile](https://www.linkedin.com/in/ornellamariestella/) 
-- [My email](mailto:ornellamariestella@gmail.com) 
+- [Linkedin](https://www.linkedin.com/in/ornellamariestella/) 
+- [E-mail](mailto:ornellamariestella@gmail.com) 

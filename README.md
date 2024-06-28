@@ -1,10 +1,9 @@
 ## Hi there, I'm Ornella ✨
 
-- I'm a Data Analyst with over 2 years of experience in the Tech Capital of Europe, Stockholm
+- I'm a Data Analyst with over 2 years of experience in FinTech, E-Commerce and Tech start-ups
 - I specialize in Customer Insights, E-Commerce and Product data
 - I have recently finished a bootcamp in **Data Analytics @Boolean**! 👨‍💻
-- I have worked in FinTech, E-Commerce and Tech start-ups
-- I hold a **MAs in Social Research**, which is why I'm all about about investigating trends 🔎
+- - I hold a **MAs in Social Research**, which is why I'm all about about investigating trends 🔎
 
 
 ### I'm passionate about 💗

@@ -1,25 +1,23 @@
 ## Hi there, I'm Ornella ✨
 
-- I'm a Business Analyst with over 2 years of experience in FinTech, E-Commerce and Tech start-ups
-- I specialize in Customer Insights, E-Commerce and Product data
-- I am a **Data Analytics @Boolean** alumna! 👨‍💻
-- I hold a **MAs in Social Research**, which is why I'm all about about investigating trends 🔎
+
+- I’m a Business Analyst with over **4 years** of experience working in FinTech, E-Commerce and Tech ecosystems
+- I have experience in both **start-up and corporate environments**, between **Stockholm and Milan**
+- I specialize in **Customer Insights**, specifically churn prevention and retention strategies
+- I enjoy automating "data chores" using Python to focus on deep analysis and storytelling 🐍⚡
+- Finally, I hold a MA in Social Research, which is why I'm all about investigating trends 🔎
 
 
 ### I'm passionate about 💗
-Advocating for users and diving into *all kinds of data* to get to know them better. 
-I believe **a user-centered approach is key** :key: to drive product improvements, sales, and retention!
+Advocating for users and diving into all kinds of data to get to know them better. I believe a **user-centered approach** is key 🔑 to drive product improvements, sales, and retention!
 
 
-### My data-related skills are 🔭
-- Excel
-- GA4
-- SQL
-- Python
-- Tableau
-  
+### My tech stack 🔭
+- Tools: Python, SQL, Excel (Advanced)
+- Viz: Power BI, Tableau, Qlik Sense
+- Analytics: GA4, HubSpot
 ***...and I'm always learning something new!***
-
+ 
 
 ### When I'm not working with data, I enjoy 
 - Going for a hike 🥾🏞️
